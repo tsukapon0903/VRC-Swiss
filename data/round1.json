@@ -1,0 +1,83 @@
+{
+  "tournamentName": "VRC Swiss Tournament",
+  "currentRound": 1,
+  "totalMatches": 6,
+  "completedMatches": 0,
+  "status": "in_progress",
+  "matches": [
+    {
+      "matchNo": 1,
+      "player1": {
+        "name": "まぁさ",
+        "class": "A級"
+      },
+      "player2": {
+        "name": "edamame3tubu",
+        "class": "A級"
+      },
+      "winner": ""
+    },
+    {
+      "matchNo": 2,
+      "player1": {
+        "name": "RUBA d6d4",
+        "class": "A級"
+      },
+      "player2": {
+        "name": "紫藤テリア",
+        "class": "B級"
+      },
+      "winner": ""
+    },
+    {
+      "matchNo": 3,
+      "player1": {
+        "name": "kuu00",
+        "class": "A級"
+      },
+      "player2": {
+        "name": "keitti",
+        "class": "B級"
+      },
+      "winner": ""
+    },
+    {
+      "matchNo": 4,
+      "player1": {
+        "name": "トリプルセブン",
+        "class": "A級"
+      },
+      "player2": {
+        "name": "あらたつ",
+        "class": "A級"
+      },
+      "winner": ""
+    },
+    {
+      "matchNo": 5,
+      "player1": {
+        "name": "konachi-",
+        "class": "A級"
+      },
+      "player2": {
+        "name": "eijis-pan",
+        "class": "A級"
+      },
+      "winner": ""
+    },
+    {
+      "matchNo": 6,
+      "player1": {
+        "name": "Crout0n",
+        "class": "A級"
+      },
+      "player2": {
+        "name": "なお",
+        "class": "A級"
+      },
+      "winner": ""
+    }
+  ],
+  "standings": [],
+  "updatedAt": "2026-06-26T14:43:30.714Z"
+}
