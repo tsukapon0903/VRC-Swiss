@@ -35,7 +35,7 @@
         "win": 1,
         "lose": 0
       },
-      "winner": "konachi-"
+      "winner": "kuu00"
     },
     {
       "matchNo": 3,
@@ -67,7 +67,7 @@
         "win": 0,
         "lose": 1
       },
-      "winner": "紫藤テリア"
+      "winner": "edamame3tubu"
     },
     {
       "matchNo": 5,
@@ -99,7 +99,7 @@
         "win": 0,
         "lose": 1
       },
-      "winner": "あらたつ"
+      "winner": "keitti"
     }
   ],
   "standings": [
@@ -119,22 +119,22 @@
     },
     {
       "rank": 3,
-      "name": "konachi-",
+      "name": "kuu00",
       "class": "A級",
       "wins": 2,
       "points": 2
     },
     {
       "rank": 4,
-      "name": "紫藤テリア",
-      "class": "B級",
+      "name": "edamame3tubu",
+      "class": "A級",
       "wins": 1,
       "points": 1
     },
     {
       "rank": 5,
-      "name": "kuu00",
-      "class": "A級",
+      "name": "keitti",
+      "class": "B級",
       "wins": 1,
       "points": 1
     },
@@ -147,7 +147,7 @@
     },
     {
       "rank": 7,
-      "name": "あらたつ",
+      "name": "konachi-",
       "class": "A級",
       "wins": 1,
       "points": 1
@@ -168,15 +168,15 @@
     },
     {
       "rank": 10,
-      "name": "edamame3tubu",
-      "class": "A級",
+      "name": "紫藤テリア",
+      "class": "B級",
       "wins": 0,
       "points": 0
     },
     {
       "rank": 11,
-      "name": "keitti",
-      "class": "B級",
+      "name": "あらたつ",
+      "class": "A級",
       "wins": 0,
       "points": 0
     },
@@ -188,5 +188,5 @@
       "points": 0
     }
   ],
-  "updatedAt": "2026-06-27T11:13:24.877Z"
+  "updatedAt": "2026-06-27T11:20:07.340Z"
 }
