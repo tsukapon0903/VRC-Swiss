@@ -2,8 +2,8 @@
   "tournamentName": "VRC Swiss Tournament",
   "currentRound": 1,
   "totalMatches": 6,
-  "completedMatches": 6,
-  "status": "completed",
+  "completedMatches": 0,
+  "status": "in_progress",
   "matches": [
     {
       "matchNo": 1,
@@ -19,7 +19,7 @@
         "win": 0,
         "lose": 0
       },
-      "winner": "まぁさ"
+      "winner": ""
     },
     {
       "matchNo": 2,
@@ -35,7 +35,7 @@
         "win": 0,
         "lose": 0
       },
-      "winner": "RUBA d6d4"
+      "winner": ""
     },
     {
       "matchNo": 3,
@@ -51,7 +51,7 @@
         "win": 0,
         "lose": 0
       },
-      "winner": "kuu00"
+      "winner": ""
     },
     {
       "matchNo": 4,
@@ -67,7 +67,7 @@
         "win": 0,
         "lose": 0
       },
-      "winner": "トリプルセブン"
+      "winner": ""
     },
     {
       "matchNo": 5,
@@ -83,7 +83,7 @@
         "win": 0,
         "lose": 0
       },
-      "winner": "konachi-"
+      "winner": ""
     },
     {
       "matchNo": 6,
@@ -99,9 +99,9 @@
         "win": 0,
         "lose": 0
       },
-      "winner": "なお"
+      "winner": ""
     }
   ],
   "standings": [],
-  "updatedAt": "2026-06-30T11:44:07.125Z"
+  "updatedAt": "2026-06-30T11:47:45.780Z"
 }
