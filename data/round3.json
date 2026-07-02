@@ -8,13 +8,13 @@
     {
       "matchNo": 1,
       "player1": {
-        "name": "まぁさ",
+        "name": "RUBA d6d4",
         "class": "A級",
         "win": 2,
         "lose": 0
       },
       "player2": {
-        "name": "kuu00",
+        "name": "あらたつ",
         "class": "A級",
         "win": 2,
         "lose": 0
@@ -24,13 +24,13 @@
     {
       "matchNo": 2,
       "player1": {
-        "name": "RUBA d6d4",
+        "name": "konachi-",
         "class": "A級",
         "win": 2,
         "lose": 0
       },
       "player2": {
-        "name": "なお",
+        "name": "トリプルセブン",
         "class": "A級",
         "win": 1,
         "lose": 1
@@ -40,14 +40,14 @@
     {
       "matchNo": 3,
       "player1": {
-        "name": "トリプルセブン",
+        "name": "kuu00",
         "class": "A級",
         "win": 1,
         "lose": 1
       },
       "player2": {
-        "name": "keitti",
-        "class": "B級",
+        "name": "まぁさ",
+        "class": "A級",
         "win": 1,
         "lose": 1
       },
@@ -56,13 +56,13 @@
     {
       "matchNo": 4,
       "player1": {
-        "name": "konachi-",
-        "class": "A級",
+        "name": "紫藤テリア",
+        "class": "B級",
         "win": 1,
         "lose": 1
       },
       "player2": {
-        "name": "Crout0n",
+        "name": "なお",
         "class": "A級",
         "win": 1,
         "lose": 1
@@ -78,7 +78,7 @@
         "lose": 1
       },
       "player2": {
-        "name": "eijis-pan",
+        "name": "Crout0n",
         "class": "A級",
         "win": 0,
         "lose": 2
@@ -88,13 +88,13 @@
     {
       "matchNo": 6,
       "player1": {
-        "name": "紫藤テリア",
+        "name": "keitti",
         "class": "B級",
         "win": 0,
         "lose": 2
       },
       "player2": {
-        "name": "あらたつ",
+        "name": "eijis-pan",
         "class": "A級",
         "win": 0,
         "lose": 2
@@ -105,21 +105,21 @@
   "standings": [
     {
       "rank": 1,
-      "name": "まぁさ",
-      "class": "A級",
-      "wins": 2,
-      "points": 2
-    },
-    {
-      "rank": 2,
       "name": "RUBA d6d4",
       "class": "A級",
       "wins": 2,
       "points": 2
     },
     {
+      "rank": 2,
+      "name": "あらたつ",
+      "class": "A級",
+      "wins": 2,
+      "points": 2
+    },
+    {
       "rank": 3,
-      "name": "kuu00",
+      "name": "konachi-",
       "class": "A級",
       "wins": 2,
       "points": 2
@@ -133,60 +133,60 @@
     },
     {
       "rank": 5,
-      "name": "keitti",
-      "class": "B級",
-      "wins": 1,
-      "points": 1
-    },
-    {
-      "rank": 6,
-      "name": "トリプルセブン",
-      "class": "A級",
-      "wins": 1,
-      "points": 1
-    },
-    {
-      "rank": 7,
-      "name": "konachi-",
-      "class": "A級",
-      "wins": 1,
-      "points": 1
-    },
-    {
-      "rank": 8,
-      "name": "Crout0n",
-      "class": "A級",
-      "wins": 1,
-      "points": 1
-    },
-    {
-      "rank": 9,
       "name": "なお",
       "class": "A級",
       "wins": 1,
       "points": 1
     },
     {
-      "rank": 10,
+      "rank": 6,
       "name": "紫藤テリア",
+      "class": "B級",
+      "wins": 1,
+      "points": 1
+    },
+    {
+      "rank": 7,
+      "name": "まぁさ",
+      "class": "A級",
+      "wins": 1,
+      "points": 1
+    },
+    {
+      "rank": 8,
+      "name": "トリプルセブン",
+      "class": "A級",
+      "wins": 1,
+      "points": 1
+    },
+    {
+      "rank": 9,
+      "name": "kuu00",
+      "class": "A級",
+      "wins": 1,
+      "points": 1
+    },
+    {
+      "rank": 10,
+      "name": "keitti",
       "class": "B級",
       "wins": 0,
       "points": 0
     },
     {
       "rank": 11,
-      "name": "あらたつ",
+      "name": "eijis-pan",
       "class": "A級",
       "wins": 0,
       "points": 0
     },
     {
       "rank": 12,
-      "name": "eijis-pan",
+      "name": "Crout0n",
       "class": "A級",
       "wins": 0,
       "points": 0
     }
   ],
-  "updatedAt": "2026-06-27T11:22:00.138Z"
+  "updatedAt": "2026-07-02T14:09:24.140Z"
 }
