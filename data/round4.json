@@ -2,8 +2,8 @@
   "tournamentName": "VRC Swiss Tournament",
   "currentRound": 4,
   "totalMatches": 6,
-  "completedMatches": 0,
-  "status": "in_progress",
+  "completedMatches": 6,
+  "status": "completed",
   "matches": [
     {
       "matchNo": 1,
@@ -19,7 +19,7 @@
         "win": 3,
         "lose": 0
       },
-      "winner": ""
+      "winner": "RUBA d6d4"
     },
     {
       "matchNo": 2,
@@ -35,7 +35,7 @@
         "win": 2,
         "lose": 1
       },
-      "winner": ""
+      "winner": "紫藤テリア"
     },
     {
       "matchNo": 3,
@@ -51,7 +51,7 @@
         "win": 2,
         "lose": 1
       },
-      "winner": ""
+      "winner": "あらたつ"
     },
     {
       "matchNo": 4,
@@ -67,7 +67,7 @@
         "win": 1,
         "lose": 2
       },
-      "winner": ""
+      "winner": "まぁさ"
     },
     {
       "matchNo": 5,
@@ -83,7 +83,7 @@
         "win": 1,
         "lose": 2
       },
-      "winner": ""
+      "winner": "トリプルセブン"
     },
     {
       "matchNo": 6,
@@ -99,7 +99,7 @@
         "win": 0,
         "lose": 3
       },
-      "winner": ""
+      "winner": "eijis-pan"
     }
   ],
   "standings": [
@@ -107,69 +107,69 @@
       "rank": 1,
       "name": "RUBA d6d4",
       "class": "A級",
+      "wins": 4,
+      "points": 4
+    },
+    {
+      "rank": 2,
+      "name": "紫藤テリア",
+      "class": "B級",
       "wins": 3,
       "points": 3
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "name": "あらたつ",
+      "class": "A級",
+      "wins": 3,
+      "points": 3
+    },
+    {
+      "rank": 4,
       "name": "konachi-",
       "class": "A級",
       "wins": 3,
       "points": 3
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "edamame3tubu",
       "class": "A級",
       "wins": 2,
       "points": 2
     },
     {
-      "rank": 4,
-      "name": "紫藤テリア",
-      "class": "B級",
-      "wins": 2,
-      "points": 2
-    },
-    {
-      "rank": 5,
-      "name": "あらたつ",
-      "class": "A級",
-      "wins": 2,
-      "points": 2
-    },
-    {
       "rank": 6,
-      "name": "kuu00",
+      "name": "まぁさ",
       "class": "A級",
       "wins": 2,
       "points": 2
     },
     {
       "rank": 7,
+      "name": "トリプルセブン",
+      "class": "A級",
+      "wins": 2,
+      "points": 2
+    },
+    {
+      "rank": 8,
+      "name": "kuu00",
+      "class": "A級",
+      "wins": 2,
+      "points": 2
+    },
+    {
+      "rank": 9,
       "name": "なお",
       "class": "A級",
       "wins": 1,
       "points": 1
     },
     {
-      "rank": 8,
-      "name": "まぁさ",
-      "class": "A級",
-      "wins": 1,
-      "points": 1
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "name": "keitti",
       "class": "B級",
-      "wins": 1,
-      "points": 1
-    },
-    {
-      "rank": 10,
-      "name": "トリプルセブン",
-      "class": "A級",
       "wins": 1,
       "points": 1
     },
@@ -177,8 +177,8 @@
       "rank": 11,
       "name": "eijis-pan",
       "class": "A級",
-      "wins": 0,
-      "points": 0
+      "wins": 1,
+      "points": 1
     },
     {
       "rank": 12,
@@ -188,5 +188,5 @@
       "points": 0
     }
   ],
-  "updatedAt": "2026-07-12T10:13:00.628Z"
+  "updatedAt": "2026-07-12T10:59:05.896Z"
 }
