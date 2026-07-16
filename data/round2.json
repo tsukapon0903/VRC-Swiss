@@ -8,13 +8,13 @@
     {
       "matchNo": 1,
       "player1": {
-        "name": "あらたつ",
+        "name": "konachi-",
         "class": "A級",
         "win": 1,
         "lose": 0
       },
       "player2": {
-        "name": "まぁさ",
+        "name": "RUBA d6d4",
         "class": "A級",
         "win": 1,
         "lose": 0
@@ -24,7 +24,7 @@
     {
       "matchNo": 2,
       "player1": {
-        "name": "konachi-",
+        "name": "あらたつ",
         "class": "A級",
         "win": 1,
         "lose": 0
@@ -40,13 +40,13 @@
     {
       "matchNo": 3,
       "player1": {
-        "name": "RUBA d6d4",
+        "name": "edamame3tubu",
         "class": "A級",
         "win": 1,
         "lose": 0
       },
       "player2": {
-        "name": "edamame3tubu",
+        "name": "まぁさ",
         "class": "A級",
         "win": 1,
         "lose": 0
@@ -56,7 +56,23 @@
     {
       "matchNo": 4,
       "player1": {
-        "name": "トリプルセブン",
+        "name": "紫藤テリア",
+        "class": "B級",
+        "win": 0,
+        "lose": 1
+      },
+      "player2": {
+        "name": "keitti",
+        "class": "B級",
+        "win": 0,
+        "lose": 1
+      },
+      "winner": ""
+    },
+    {
+      "matchNo": 5,
+      "player1": {
+        "name": "なお",
         "class": "A級",
         "win": 0,
         "lose": 1
@@ -70,32 +86,16 @@
       "winner": ""
     },
     {
-      "matchNo": 5,
+      "matchNo": 6,
       "player1": {
-        "name": "紫藤テリア",
-        "class": "B級",
-        "win": 0,
-        "lose": 1
-      },
-      "player2": {
         "name": "Crout0n",
         "class": "A級",
         "win": 0,
         "lose": 1
       },
-      "winner": ""
-    },
-    {
-      "matchNo": 6,
-      "player1": {
-        "name": "なお",
-        "class": "A級",
-        "win": 0,
-        "lose": 1
-      },
       "player2": {
-        "name": "keitti",
-        "class": "B級",
+        "name": "トリプルセブン",
+        "class": "A級",
         "win": 0,
         "lose": 1
       },
@@ -188,5 +188,5 @@
       "points": 0
     }
   ],
-  "updatedAt": "2026-07-02T13:56:52.341Z"
+  "updatedAt": "2026-07-16T14:37:22.328Z"
 }
