@@ -8,13 +8,13 @@
     {
       "matchNo": 1,
       "player1": {
-        "name": "あらたつ",
+        "name": "int mint",
         "class": "A級, Class A",
         "win": 1,
         "lose": 0
       },
       "player2": {
-        "name": "トリプルセブン",
+        "name": "あらたつ",
         "class": "A級, Class A",
         "win": 1,
         "lose": 0
@@ -30,8 +30,8 @@
         "lose": 0
       },
       "player2": {
-        "name": "int mint",
-        "class": "A級, Class A",
+        "name": "Yorga",
+        "class": "B級, Class B",
         "win": 1,
         "lose": 0
       },
@@ -40,14 +40,14 @@
     {
       "matchNo": 3,
       "player1": {
-        "name": "keitti",
-        "class": "B級, Class B",
+        "name": "edamame3tubu",
+        "class": "A級, Class A",
         "win": 1,
         "lose": 0
       },
       "player2": {
-        "name": "ゆる",
-        "class": "A級, Class A",
+        "name": "keitti",
+        "class": "B級, Class B",
         "win": 1,
         "lose": 0
       },
@@ -56,13 +56,13 @@
     {
       "matchNo": 4,
       "player1": {
-        "name": "Technor",
+        "name": "eijis-pan",
         "class": "B級, Class B",
         "win": 0,
         "lose": 1
       },
       "player2": {
-        "name": "Yorga",
+        "name": "Technor",
         "class": "B級, Class B",
         "win": 0,
         "lose": 1
@@ -72,14 +72,14 @@
     {
       "matchNo": 5,
       "player1": {
-        "name": "konachi-",
+        "name": "トリプルセブン",
         "class": "A級, Class A",
         "win": 0,
         "lose": 1
       },
       "player2": {
-        "name": "eijis-pan",
-        "class": "B級, Class B",
+        "name": "konachi-",
+        "class": "A級, Class A",
         "win": 0,
         "lose": 1
       },
@@ -88,7 +88,7 @@
     {
       "matchNo": 6,
       "player1": {
-        "name": "edamame3tubu",
+        "name": "ゆる",
         "class": "A級, Class A",
         "win": 0,
         "lose": 1
@@ -105,7 +105,7 @@
   "standings": [
     {
       "rank": 1,
-      "name": "トリプルセブン",
+      "name": "edamame3tubu",
       "class": "A級, Class A",
       "wins": 1,
       "points": 1
@@ -140,14 +140,14 @@
     },
     {
       "rank": 6,
-      "name": "ゆる",
-      "class": "A級, Class A",
+      "name": "Yorga",
+      "class": "B級, Class B",
       "wins": 1,
       "points": 1
     },
     {
       "rank": 7,
-      "name": "edamame3tubu",
+      "name": "トリプルセブン",
       "class": "A級, Class A",
       "wins": 0,
       "points": 0
@@ -182,11 +182,11 @@
     },
     {
       "rank": 12,
-      "name": "Yorga",
-      "class": "B級, Class B",
+      "name": "ゆる",
+      "class": "A級, Class A",
       "wins": 0,
       "points": 0
     }
   ],
-  "updatedAt": "2026-08-07T12:52:08.828Z"
+  "updatedAt": "2026-08-08T11:30:03.435Z"
 }
