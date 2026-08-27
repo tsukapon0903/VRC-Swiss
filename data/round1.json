@@ -8,55 +8,7 @@
     {
       "matchNo": 1,
       "player1": {
-        "name": "edamame3tubu",
-        "class": "A級, Class A",
-        "win": 0,
-        "lose": 0
-      },
-      "player2": {
-        "name": "トリプルセブン",
-        "class": "A級, Class A",
-        "win": 0,
-        "lose": 0
-      },
-      "winner": ""
-    },
-    {
-      "matchNo": 2,
-      "player1": {
-        "name": "keitti",
-        "class": "B級, Class B",
-        "win": 0,
-        "lose": 0
-      },
-      "player2": {
-        "name": "eijis-pan",
-        "class": "B級, Class B",
-        "win": 0,
-        "lose": 0
-      },
-      "winner": ""
-    },
-    {
-      "matchNo": 3,
-      "player1": {
-        "name": "int mint",
-        "class": "A級, Class A",
-        "win": 0,
-        "lose": 0
-      },
-      "player2": {
-        "name": "Technor",
-        "class": "B級, Class B",
-        "win": 0,
-        "lose": 0
-      },
-      "winner": ""
-    },
-    {
-      "matchNo": 4,
-      "player1": {
-        "name": "あらたつ",
+        "name": "konachi-",
         "class": "A級, Class A",
         "win": 0,
         "lose": 0
@@ -70,7 +22,23 @@
       "winner": ""
     },
     {
-      "matchNo": 5,
+      "matchNo": 2,
+      "player1": {
+        "name": "eijis-pan",
+        "class": "B級, Class B",
+        "win": 0,
+        "lose": 0
+      },
+      "player2": {
+        "name": "keitti",
+        "class": "B級, Class B",
+        "win": 0,
+        "lose": 0
+      },
+      "winner": ""
+    },
+    {
+      "matchNo": 3,
       "player1": {
         "name": "まぁさ",
         "class": "A級, Class A",
@@ -78,7 +46,7 @@
         "lose": 0
       },
       "player2": {
-        "name": "konachi-",
+        "name": "int mint",
         "class": "A級, Class A",
         "win": 0,
         "lose": 0
@@ -86,9 +54,9 @@
       "winner": ""
     },
     {
-      "matchNo": 6,
+      "matchNo": 4,
       "player1": {
-        "name": "Yorga",
+        "name": "Technor",
         "class": "B級, Class B",
         "win": 0,
         "lose": 0
@@ -100,8 +68,40 @@
         "lose": 0
       },
       "winner": ""
+    },
+    {
+      "matchNo": 5,
+      "player1": {
+        "name": "Yorga",
+        "class": "B級, Class B",
+        "win": 0,
+        "lose": 0
+      },
+      "player2": {
+        "name": "あらたつ",
+        "class": "A級, Class A",
+        "win": 0,
+        "lose": 0
+      },
+      "winner": ""
+    },
+    {
+      "matchNo": 6,
+      "player1": {
+        "name": "edamame3tubu",
+        "class": "A級, Class A",
+        "win": 0,
+        "lose": 0
+      },
+      "player2": {
+        "name": "トリプルセブン",
+        "class": "A級, Class A",
+        "win": 0,
+        "lose": 0
+      },
+      "winner": ""
     }
   ],
   "standings": [],
-  "updatedAt": "2026-08-08T11:27:40.912Z"
+  "updatedAt": "2026-08-27T13:37:18.832Z"
 }
