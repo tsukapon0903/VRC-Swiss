@@ -8,14 +8,14 @@
     {
       "matchNo": 1,
       "player1": {
-        "name": "int mint",
+        "name": "konachi-",
         "class": "A級, Class A",
         "win": 1,
         "lose": 0
       },
       "player2": {
-        "name": "あらたつ",
-        "class": "A級, Class A",
+        "name": "Technor",
+        "class": "B級, Class B",
         "win": 1,
         "lose": 0
       },
@@ -24,13 +24,13 @@
     {
       "matchNo": 2,
       "player1": {
-        "name": "まぁさ",
-        "class": "A級, Class A",
+        "name": "Yorga",
+        "class": "B級, Class B",
         "win": 1,
         "lose": 0
       },
       "player2": {
-        "name": "Yorga",
+        "name": "eijis-pan",
         "class": "B級, Class B",
         "win": 1,
         "lose": 0
@@ -46,8 +46,8 @@
         "lose": 0
       },
       "player2": {
-        "name": "keitti",
-        "class": "B級, Class B",
+        "name": "まぁさ",
+        "class": "A級, Class A",
         "win": 1,
         "lose": 0
       },
@@ -56,14 +56,14 @@
     {
       "matchNo": 4,
       "player1": {
-        "name": "eijis-pan",
-        "class": "B級, Class B",
+        "name": "ゆる",
+        "class": "A級, Class A",
         "win": 0,
         "lose": 1
       },
       "player2": {
-        "name": "Technor",
-        "class": "B級, Class B",
+        "name": "トリプルセブン",
+        "class": "A級, Class A",
         "win": 0,
         "lose": 1
       },
@@ -72,13 +72,13 @@
     {
       "matchNo": 5,
       "player1": {
-        "name": "トリプルセブン",
+        "name": "あらたつ",
         "class": "A級, Class A",
         "win": 0,
         "lose": 1
       },
       "player2": {
-        "name": "konachi-",
+        "name": "int mint",
         "class": "A級, Class A",
         "win": 0,
         "lose": 1
@@ -88,14 +88,14 @@
     {
       "matchNo": 6,
       "player1": {
-        "name": "ゆる",
+        "name": "kuu00",
         "class": "A級, Class A",
         "win": 0,
         "lose": 1
       },
       "player2": {
-        "name": "kuu00",
-        "class": "A級, Class A",
+        "name": "keitti",
+        "class": "B級, Class B",
         "win": 0,
         "lose": 1
       },
@@ -105,88 +105,88 @@
   "standings": [
     {
       "rank": 1,
-      "name": "edamame3tubu",
+      "name": "konachi-",
       "class": "A級, Class A",
       "wins": 1,
       "points": 1
     },
     {
       "rank": 2,
-      "name": "keitti",
+      "name": "eijis-pan",
       "class": "B級, Class B",
       "wins": 1,
       "points": 1
     },
     {
       "rank": 3,
-      "name": "int mint",
-      "class": "A級, Class A",
-      "wins": 1,
-      "points": 1
-    },
-    {
-      "rank": 4,
-      "name": "あらたつ",
-      "class": "A級, Class A",
-      "wins": 1,
-      "points": 1
-    },
-    {
-      "rank": 5,
       "name": "まぁさ",
       "class": "A級, Class A",
       "wins": 1,
       "points": 1
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "name": "Technor",
+      "class": "B級, Class B",
+      "wins": 1,
+      "points": 1
+    },
+    {
+      "rank": 5,
       "name": "Yorga",
       "class": "B級, Class B",
       "wins": 1,
       "points": 1
     },
     {
-      "rank": 7,
-      "name": "トリプルセブン",
+      "rank": 6,
+      "name": "edamame3tubu",
       "class": "A級, Class A",
-      "wins": 0,
-      "points": 0
+      "wins": 1,
+      "points": 1
     },
     {
-      "rank": 8,
-      "name": "eijis-pan",
-      "class": "B級, Class B",
-      "wins": 0,
-      "points": 0
-    },
-    {
-      "rank": 9,
-      "name": "Technor",
-      "class": "B級, Class B",
-      "wins": 0,
-      "points": 0
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "name": "kuu00",
       "class": "A級, Class A",
       "wins": 0,
       "points": 0
     },
     {
+      "rank": 8,
+      "name": "keitti",
+      "class": "B級, Class B",
+      "wins": 0,
+      "points": 0
+    },
+    {
+      "rank": 9,
+      "name": "int mint",
+      "class": "A級, Class A",
+      "wins": 0,
+      "points": 0
+    },
+    {
+      "rank": 10,
+      "name": "ゆる",
+      "class": "A級, Class A",
+      "wins": 0,
+      "points": 0
+    },
+    {
       "rank": 11,
-      "name": "konachi-",
+      "name": "あらたつ",
       "class": "A級, Class A",
       "wins": 0,
       "points": 0
     },
     {
       "rank": 12,
-      "name": "ゆる",
+      "name": "トリプルセブン",
       "class": "A級, Class A",
       "wins": 0,
       "points": 0
     }
   ],
-  "updatedAt": "2026-08-08T11:30:03.435Z"
+  "updatedAt": "2026-08-27T13:42:50.666Z"
 }
