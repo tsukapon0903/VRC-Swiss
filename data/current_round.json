@@ -1,20 +1,20 @@
 {
   "tournamentName": "VRC Swiss Tournament",
   "currentRound": 1,
-  "totalMatches": 6,
+  "totalMatches": 5,
   "completedMatches": 0,
   "status": "in_progress",
   "matches": [
     {
       "matchNo": 1,
       "player1": {
-        "name": "konachi-",
-        "class": "A級, Class A",
+        "name": "takotyann",
+        "class": "C級, Class C",
         "win": 0,
         "lose": 0
       },
       "player2": {
-        "name": "あらたつ",
+        "name": "RUBA d6d4",
         "class": "A級, Class A",
         "win": 0,
         "lose": 0
@@ -24,55 +24,7 @@
     {
       "matchNo": 2,
       "player1": {
-        "name": "トリプルセブン",
-        "class": "A級, Class A",
-        "win": 0,
-        "lose": 0
-      },
-      "player2": {
-        "name": "kuu00",
-        "class": "A級, Class A",
-        "win": 0,
-        "lose": 0
-      },
-      "winner": ""
-    },
-    {
-      "matchNo": 3,
-      "player1": {
-        "name": "edamame3tubu",
-        "class": "A級, Class A",
-        "win": 0,
-        "lose": 0
-      },
-      "player2": {
-        "name": "まぁさ",
-        "class": "A級, Class A",
-        "win": 0,
-        "lose": 0
-      },
-      "winner": ""
-    },
-    {
-      "matchNo": 4,
-      "player1": {
-        "name": "ゆる",
-        "class": "A級, Class A",
-        "win": 0,
-        "lose": 0
-      },
-      "player2": {
         "name": "eijis-pan",
-        "class": "B級, Class B",
-        "win": 0,
-        "lose": 0
-      },
-      "winner": ""
-    },
-    {
-      "matchNo": 5,
-      "player1": {
-        "name": "Technor",
         "class": "B級, Class B",
         "win": 0,
         "lose": 0
@@ -86,7 +38,23 @@
       "winner": ""
     },
     {
-      "matchNo": 6,
+      "matchNo": 3,
+      "player1": {
+        "name": "ゆる",
+        "class": "A級, Class A",
+        "win": 0,
+        "lose": 0
+      },
+      "player2": {
+        "name": "kuu00",
+        "class": "A級, Class A",
+        "win": 0,
+        "lose": 0
+      },
+      "winner": ""
+    },
+    {
+      "matchNo": 4,
       "player1": {
         "name": "keitti",
         "class": "B級, Class B",
@@ -94,8 +62,24 @@
         "lose": 0
       },
       "player2": {
-        "name": "Yorga",
-        "class": "B級, Class B",
+        "name": "つん",
+        "class": "C級, Class C",
+        "win": 0,
+        "lose": 0
+      },
+      "winner": ""
+    },
+    {
+      "matchNo": 5,
+      "player1": {
+        "name": "あらたつ",
+        "class": "A級, Class A",
+        "win": 0,
+        "lose": 0
+      },
+      "player2": {
+        "name": "Ninohito にのひと",
+        "class": "C級, Class C",
         "win": 0,
         "lose": 0
       },
@@ -103,5 +87,5 @@
     }
   ],
   "standings": [],
-  "updatedAt": "2026-08-27T13:51:10.887Z"
+  "updatedAt": "2026-09-04T12:03:43.880Z"
 }
