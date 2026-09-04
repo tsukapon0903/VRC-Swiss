@@ -1,6 +1,6 @@
 {
   "tournamentName": "VRC Swiss Tournament",
-  "currentRound": 3,
+  "currentRound": 4,
   "totalMatches": 5,
   "completedMatches": 0,
   "status": "in_progress",
@@ -8,31 +8,31 @@
     {
       "matchNo": 1,
       "player1": {
-        "name": "takotyann",
-        "class": "C級, Class C",
-        "win": 2,
+        "name": "ゆる",
+        "class": "A級, Class A",
+        "win": 3,
         "lose": 0
       },
       "player2": {
-        "name": "ゆる",
+        "name": "RUBA d6d4",
         "class": "A級, Class A",
         "win": 2,
-        "lose": 0
+        "lose": 1
       },
       "winner": ""
     },
     {
       "matchNo": 2,
       "player1": {
-        "name": "eijis-pan",
-        "class": "B級, Class B",
-        "win": 1,
+        "name": "takotyann",
+        "class": "C級, Class C",
+        "win": 2,
         "lose": 1
       },
       "player2": {
         "name": "つん",
         "class": "C級, Class C",
-        "win": 1,
+        "win": 2,
         "lose": 1
       },
       "winner": ""
@@ -40,48 +40,48 @@
     {
       "matchNo": 3,
       "player1": {
-        "name": "Ninohito にのひと",
-        "class": "C級, Class C",
-        "win": 1,
+        "name": "kuu00",
+        "class": "A級, Class A",
+        "win": 2,
         "lose": 1
       },
       "player2": {
-        "name": "RUBA d6d4",
-        "class": "A級, Class A",
+        "name": "Ninohito にのひと",
+        "class": "C級, Class C",
         "win": 1,
-        "lose": 1
+        "lose": 2
       },
       "winner": ""
     },
     {
       "matchNo": 4,
       "player1": {
+        "name": "keitti",
+        "class": "B級, Class B",
+        "win": 1,
+        "lose": 2
+      },
+      "player2": {
         "name": "int mint",
         "class": "A級, Class A",
         "win": 1,
-        "lose": 1
-      },
-      "player2": {
-        "name": "kuu00",
-        "class": "A級, Class A",
-        "win": 1,
-        "lose": 1
+        "lose": 2
       },
       "winner": ""
     },
     {
       "matchNo": 5,
       "player1": {
-        "name": "keitti",
+        "name": "eijis-pan",
         "class": "B級, Class B",
-        "win": 0,
+        "win": 1,
         "lose": 2
       },
       "player2": {
         "name": "あらたつ",
         "class": "A級, Class A",
         "win": 0,
-        "lose": 2
+        "lose": 3
       },
       "winner": ""
     }
@@ -89,15 +89,15 @@
   "standings": [
     {
       "rank": 1,
-      "name": "takotyann",
-      "class": "C級, Class C",
-      "wins": 2,
-      "points": 2
+      "name": "ゆる",
+      "class": "A級, Class A",
+      "wins": 3,
+      "points": 3
     },
     {
       "rank": 2,
-      "name": "ゆる",
-      "class": "A級, Class A",
+      "name": "takotyann",
+      "class": "C級, Class C",
       "wins": 2,
       "points": 2
     },
@@ -105,50 +105,50 @@
       "rank": 3,
       "name": "RUBA d6d4",
       "class": "A級, Class A",
-      "wins": 1,
-      "points": 1
+      "wins": 2,
+      "points": 2
     },
     {
       "rank": 4,
+      "name": "kuu00",
+      "class": "A級, Class A",
+      "wins": 2,
+      "points": 2
+    },
+    {
+      "rank": 5,
+      "name": "つん",
+      "class": "C級, Class C",
+      "wins": 2,
+      "points": 2
+    },
+    {
+      "rank": 6,
       "name": "eijis-pan",
       "class": "B級, Class B",
       "wins": 1,
       "points": 1
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "int mint",
       "class": "A級, Class A",
       "wins": 1,
       "points": 1
     },
     {
-      "rank": 6,
-      "name": "kuu00",
-      "class": "A級, Class A",
-      "wins": 1,
-      "points": 1
-    },
-    {
-      "rank": 7,
-      "name": "つん",
-      "class": "C級, Class C",
-      "wins": 1,
-      "points": 1
-    },
-    {
       "rank": 8,
-      "name": "Ninohito にのひと",
-      "class": "C級, Class C",
+      "name": "keitti",
+      "class": "B級, Class B",
       "wins": 1,
       "points": 1
     },
     {
       "rank": 9,
-      "name": "keitti",
-      "class": "B級, Class B",
-      "wins": 0,
-      "points": 0
+      "name": "Ninohito にのひと",
+      "class": "C級, Class C",
+      "wins": 1,
+      "points": 1
     },
     {
       "rank": 10,
@@ -158,5 +158,5 @@
       "points": 0
     }
   ],
-  "updatedAt": "2026-09-04T13:15:29.309Z"
+  "updatedAt": "2026-09-04T13:44:56.492Z"
 }
