@@ -1,37 +1,37 @@
 {
   "tournamentName": "VRC Swiss Tournament",
   "currentRound": 4,
-  "totalMatches": 6,
+  "totalMatches": 5,
   "completedMatches": 0,
   "status": "in_progress",
   "matches": [
     {
       "matchNo": 1,
       "player1": {
-        "name": "Yorga",
-        "class": "B級, Class B",
+        "name": "ゆる",
+        "class": "A級, Class A",
         "win": 3,
         "lose": 0
       },
       "player2": {
-        "name": "edamame3tubu",
+        "name": "RUBA d6d4",
         "class": "A級, Class A",
-        "win": 3,
-        "lose": 0
+        "win": 2,
+        "lose": 1
       },
       "winner": ""
     },
     {
       "matchNo": 2,
       "player1": {
-        "name": "あらたつ",
-        "class": "A級, Class A",
+        "name": "takotyann",
+        "class": "C級, Class C",
         "win": 2,
         "lose": 1
       },
       "player2": {
-        "name": "まぁさ",
-        "class": "A級, Class A",
+        "name": "つん",
+        "class": "C級, Class C",
         "win": 2,
         "lose": 1
       },
@@ -40,29 +40,29 @@
     {
       "matchNo": 3,
       "player1": {
-        "name": "konachi-",
+        "name": "kuu00",
         "class": "A級, Class A",
         "win": 2,
         "lose": 1
       },
       "player2": {
-        "name": "eijis-pan",
-        "class": "B級, Class B",
-        "win": 2,
-        "lose": 1
+        "name": "Ninohito にのひと",
+        "class": "C級, Class C",
+        "win": 1,
+        "lose": 2
       },
       "winner": ""
     },
     {
       "matchNo": 4,
       "player1": {
-        "name": "ゆる",
-        "class": "A級, Class A",
+        "name": "keitti",
+        "class": "B級, Class B",
         "win": 1,
         "lose": 2
       },
       "player2": {
-        "name": "kuu00",
+        "name": "int mint",
         "class": "A級, Class A",
         "win": 1,
         "lose": 2
@@ -72,29 +72,13 @@
     {
       "matchNo": 5,
       "player1": {
-        "name": "keitti",
+        "name": "eijis-pan",
         "class": "B級, Class B",
         "win": 1,
         "lose": 2
       },
       "player2": {
-        "name": "Technor",
-        "class": "B級, Class B",
-        "win": 1,
-        "lose": 2
-      },
-      "winner": ""
-    },
-    {
-      "matchNo": 6,
-      "player1": {
-        "name": "トリプルセブン",
-        "class": "A級, Class A",
-        "win": 0,
-        "lose": 3
-      },
-      "player2": {
-        "name": "int mint",
+        "name": "あらたつ",
         "class": "A級, Class A",
         "win": 0,
         "lose": 3
@@ -105,49 +89,49 @@
   "standings": [
     {
       "rank": 1,
-      "name": "Yorga",
-      "class": "B級, Class B",
-      "wins": 3,
-      "points": 3
-    },
-    {
-      "rank": 2,
-      "name": "edamame3tubu",
+      "name": "ゆる",
       "class": "A級, Class A",
       "wins": 3,
       "points": 3
     },
     {
+      "rank": 2,
+      "name": "takotyann",
+      "class": "C級, Class C",
+      "wins": 2,
+      "points": 2
+    },
+    {
       "rank": 3,
-      "name": "konachi-",
+      "name": "RUBA d6d4",
       "class": "A級, Class A",
       "wins": 2,
       "points": 2
     },
     {
       "rank": 4,
-      "name": "eijis-pan",
-      "class": "B級, Class B",
+      "name": "kuu00",
+      "class": "A級, Class A",
       "wins": 2,
       "points": 2
     },
     {
       "rank": 5,
-      "name": "まぁさ",
-      "class": "A級, Class A",
+      "name": "つん",
+      "class": "C級, Class C",
       "wins": 2,
       "points": 2
     },
     {
       "rank": 6,
-      "name": "あらたつ",
-      "class": "A級, Class A",
-      "wins": 2,
-      "points": 2
+      "name": "eijis-pan",
+      "class": "B級, Class B",
+      "wins": 1,
+      "points": 1
     },
     {
       "rank": 7,
-      "name": "kuu00",
+      "name": "int mint",
       "class": "A級, Class A",
       "wins": 1,
       "points": 1
@@ -161,32 +145,18 @@
     },
     {
       "rank": 9,
-      "name": "Technor",
-      "class": "B級, Class B",
+      "name": "Ninohito にのひと",
+      "class": "C級, Class C",
       "wins": 1,
       "points": 1
     },
     {
       "rank": 10,
-      "name": "ゆる",
-      "class": "A級, Class A",
-      "wins": 1,
-      "points": 1
-    },
-    {
-      "rank": 11,
-      "name": "int mint",
-      "class": "A級, Class A",
-      "wins": 0,
-      "points": 0
-    },
-    {
-      "rank": 12,
-      "name": "トリプルセブン",
+      "name": "あらたつ",
       "class": "A級, Class A",
       "wins": 0,
       "points": 0
     }
   ],
-  "updatedAt": "2026-08-27T13:49:08.597Z"
+  "updatedAt": "2026-09-04T13:44:56.492Z"
 }
