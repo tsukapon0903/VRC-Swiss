@@ -2,131 +2,131 @@
   "tournamentName": "VRC Swiss Tournament",
   "currentRound": 3,
   "totalMatches": 4,
-  "completedMatches": 4,
-  "status": "completed",
+  "completedMatches": 0,
+  "status": "in_progress",
   "matches": [
     {
       "matchNo": 1,
       "player1": {
-        "name": "kuu00",
-        "class": "A級, Class A",
+        "name": "真白ゆう。",
+        "class": "C級, Class C",
         "win": 2,
         "lose": 0
       },
       "player2": {
-        "name": "あらたつ",
+        "name": "edamame3tubu",
         "class": "A級, Class A",
         "win": 2,
         "lose": 0
       },
-      "winner": "あらたつ"
+      "winner": ""
     },
     {
       "matchNo": 2,
       "player1": {
-        "name": "RUBA",
-        "class": "A級, Class A",
-        "win": 1,
-        "lose": 1
-      },
-      "player2": {
-        "name": "AFLseia",
+        "name": "Eve-reB",
         "class": "C級, Class C",
         "win": 1,
         "lose": 1
       },
-      "winner": "RUBA"
+      "player2": {
+        "name": "keitti",
+        "class": "B級, Class B",
+        "win": 1,
+        "lose": 1
+      },
+      "winner": ""
     },
     {
       "matchNo": 3,
       "player1": {
-        "name": "int mint",
-        "class": "A級, Class A",
+        "name": "eijis-pan",
+        "class": "B級, Class B",
         "win": 1,
         "lose": 1
       },
       "player2": {
-        "name": "つかぽん",
-        "class": "A級, Class A",
+        "name": "ミネラルむぎ茶",
+        "class": "C級, Class C",
         "win": 1,
         "lose": 1
       },
-      "winner": "int mint"
+      "winner": ""
     },
     {
       "matchNo": 4,
       "player1": {
-        "name": "edamame3tubu",
+        "name": "あらたつ",
         "class": "A級, Class A",
         "win": 0,
         "lose": 2
       },
       "player2": {
-        "name": "eijis-pan",
-        "class": "B級, Class B",
+        "name": "なお",
+        "class": "A級, Class A",
         "win": 0,
         "lose": 2
       },
-      "winner": "edamame3tubu"
+      "winner": ""
     }
   ],
   "standings": [
     {
       "rank": 1,
-      "name": "あらたつ",
+      "name": "edamame3tubu",
       "class": "A級, Class A",
-      "wins": 3,
-      "points": 3
+      "wins": 2,
+      "points": 2
     },
     {
       "rank": 2,
-      "name": "RUBA",
-      "class": "A級, Class A",
+      "name": "真白ゆう。",
+      "class": "C級, Class C",
       "wins": 2,
       "points": 2
     },
     {
       "rank": 3,
-      "name": "int mint",
-      "class": "A級, Class A",
-      "wins": 2,
-      "points": 2
+      "name": "keitti",
+      "class": "B級, Class B",
+      "wins": 1,
+      "points": 1
     },
     {
       "rank": 4,
-      "name": "kuu00",
-      "class": "A級, Class A",
-      "wins": 2,
-      "points": 2
+      "name": "ミネラルむぎ茶",
+      "class": "C級, Class C",
+      "wins": 1,
+      "points": 1
     },
     {
       "rank": 5,
-      "name": "edamame3tubu",
-      "class": "A級, Class A",
+      "name": "eijis-pan",
+      "class": "B級, Class B",
       "wins": 1,
       "points": 1
     },
     {
       "rank": 6,
-      "name": "AFLseia",
+      "name": "Eve-reB",
       "class": "C級, Class C",
       "wins": 1,
       "points": 1
     },
     {
       "rank": 7,
-      "name": "つかぽん",
+      "name": "なお",
       "class": "A級, Class A",
-      "wins": 1,
-      "points": 1
+      "wins": 0,
+      "points": 0
     },
     {
       "rank": 8,
-      "name": "eijis-pan",
-      "class": "B級, Class B",
+      "name": "あらたつ",
+      "class": "A級, Class A",
       "wins": 0,
       "points": 0
     }
   ],
-  "updatedAt": "2026-10-03T12:55:35.724Z"
+  "updatedAt": "2026-11-06T13:29:57.378Z"
 }
